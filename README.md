@@ -7,4 +7,5 @@
 
 
 [**Paper resources**](https://www.groundai.com/project/generating-animations-from-screenplays/1)
+
 [**Post**](https://venturebeat.com/2019/04/12/disneys-ai-generates-storyboard-animations-from-screenplays/)
